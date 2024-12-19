@@ -1,5 +1,5 @@
 # exprep_LLM
-Fine tuning project.
+LLM fine tuning for text classification with DistilBERT and MiniLM.
 
 This repository contains files for a project on Finte Tuning LLM's for text classification.<br>
 The folders GoEmotion and DBPedia 14 contian jupyter notebooks used to train the models distillbert and minilm on the dataset:<br>

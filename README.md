@@ -25,7 +25,8 @@ Overall the models achieve very impressive results.
 GoEmotion (28 Classes): 58.9% Accuracy with classical fine tuning, ~54% Accuracy with LoRa (r=16, alpha=32, Dropout=0.1) both with DistilBERT.
 DBPedia 14 (14 Classes): 99.9% Accuracy with distilBERT LoRa (r=16|8, alpha=32, Dropout=0.1), 85% Accuracy with MiniLM LoRa (r=8, alpha=32, Dropout=0.1) (ended trainig on MiniLM after 20 epochs but it could probably still get a bit better
 
-Confusion Matrix of DBPedia 14 Dataset with distilBERT:![grafik](https://github.com/user-attachments/assets/ce3d2363-188b-411a-92d5-0ae9181c2ee9)
+Confusion Matrix of DBPedia 14 Dataset with distilBERT:![grafik](https://github.com/user-attachments/assets/619004c9-f31b-482d-91e0-77ecfa395d45)
+
 
 
 ## Key Findings:

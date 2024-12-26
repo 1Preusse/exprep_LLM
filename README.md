@@ -35,7 +35,7 @@ Confusion Matrix of DBPedia 14 Dataset with distilBERT:![grafik](https://github.
 - All expectations for this project have been achieved via LLM fine tuning
 
 ## Further Development:
-The results on DBPedia 14 are quiet impressive and do not seem to need much more touch. In particular the model based on DistilBERT is a very good option to fullfill this task. Further improvement could go into the are of using less data to produce the same or similar results. <br>
+The results on DBPedia 14 are quiet impressive and do not seem to need much more touch. In particular the model based on DistilBERT is a very good option to fullfill this task. Further improvement could go into the area of using less data to produce the same or similar results. <br>
 Furthermore, one should try to improve the results on the GoEmotion dataset. There are different possibilties such as: Allowing multi class predictions, using data augmentation to level the sample size of each class in the dataset.
 
 ## Resources:
